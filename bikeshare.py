@@ -1,5 +1,4 @@
-#Bikeshare Project
-
+biker days
 import time
 import pandas as pd
 import numpy as np
@@ -28,7 +27,7 @@ def get_filters():
         month = input(
         "Month is invalid! Please input another month: ").lower()
 
-    # get user input for day of week (all, monday, tuesday, ... sunday)
+    # get user input for day of week (all, monday, tuesday,wensday, thursday,friday,saturday sunday)
     day = input("Please input day of week: ").lower()
     
     while day not in ['monday', 'tuesday', 'wednesday','thursday','friday','saturday','sunday']:
