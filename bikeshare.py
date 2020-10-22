@@ -1,3 +1,10 @@
+<<<<<<< .merge_file_a24464
+#Bikeshare Project--
+
+||||||| .merge_file_a18496
+=======
+##Bikershare project-1
+>>>>>>> .merge_file_a05196
 import time
 import pandas as pd
 import numpy as np

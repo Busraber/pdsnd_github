@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
-
+21.10.2020
 ### Project Title
-Replace the Project Title
+Post Your Work On Github
 
 ### Description
-Describe what your project is about and what it does
+This is the second project for Udacity's Data Analyst Nanodegree Program where bike rideshare data for a few select cities are used to create a terminal application that gives a set of summary statistics for each city. 
+This is implemented in Python.
 
 ### Files used
-Include the files used
+Pyhton, Pandas
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
