@@ -1,4 +1,4 @@
-biker days
+#chicago, new york city, washington
 import time
 import pandas as pd
 import numpy as np
