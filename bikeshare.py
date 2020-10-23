@@ -1,16 +1,3 @@
-<<<<<<< .merge_file_a08476
-<<<<<<< .merge_file_a24464
-#Code
-
-||||||| .merge_file_a18496
-=======
-##Bikershare project-1
->>>>>>> .merge_file_a05196
-||||||| .merge_file_a01516
-=======
-#Udacity program
-
->>>>>>> .merge_file_a15504
 import time
 import pandas as pd
 import numpy as np
